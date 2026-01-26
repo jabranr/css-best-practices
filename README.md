@@ -4,6 +4,13 @@ A set of CSS best practices skill-set for AI agents and LLMs to follow when crea
 
 ## Installation
 
+### Recommended
+
+```bash
+npx skills add jabranr/css-best-practices
+```
+
+### Legacy
 
 ```bash
 npx add-skill jabranr/css-best-practices
